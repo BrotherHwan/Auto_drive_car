@@ -10,6 +10,5 @@ STM32CubeIDE, arduino bluetooth application(휴대폰에 설치)
 
 ## 시연영상
 <img src="./img_video/auto_drive_car.gif" width=400 height=600>
-원본영상(이 링크의 raw file 다운로드시 좀 더 크고 명확한 영상을 확인하실 수 있습니다. ) :
 
-[img_video/auto_drive.mp4](https://github.com/BrotherHwan/Auto_drive_car/blob/main/img_video/auto_drive.mp4)
+[원본영상](https://github.com/BrotherHwan/Auto_drive_car/blob/main/img_video/auto_drive.mp4)(이 링크의 raw file 다운로드시 좀 더 크고 명확한 영상을 확인하실 수 있습니다. ) 

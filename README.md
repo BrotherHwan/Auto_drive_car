@@ -8,6 +8,9 @@ STM32CubeIDE, arduino bluetooth application(휴대폰에 설치)
 ## High Level Design
 <img src="./img_video/auto_drive_car.png">
 
+## 수행역할
+초음파 거리에 따른 모터 제어 알고리즘을 구현했습니다. 또한 초음파 센서의 거리 데이터를 가공하는 역할을 맡았습니다.  필터 알고리즘을 사용하여 거리 데이터에 발생한 오차를 줄였습니다.
+
 ## 시연영상
 <img src="./img_video/auto_drive_car.gif" width=400 height=600>
 

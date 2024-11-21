@@ -4,7 +4,7 @@
 ## 구성인원
 2명
 ## 기술 스택
-![a](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=cpp&logoColor=white) ![b](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white) ![c](https://img.shields.io/badge/STM32CubeIDE-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white) ![d](https://img.shields.io/badge/ARM-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![e](https://img.shields.io/badge/RTOS-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![a](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=cpp&logoColor=white) ![b](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white) ![c](https://img.shields.io/badge/STM32CubeIDE-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white) ![d](https://img.shields.io/badge/ARM-FF6F00?style=for-the-badge&logo=arm&logoColor=white) ![e](https://img.shields.io/badge/RTOS-FF6F00?style=for-the-badge&logo=rtos&logoColor=white)
 ## 역할
 초음파 거리에 따른 모터 제어 알고리즘을 구현했습니다. 또한 초음파 센서의 거리 데이터를 가공하는 역할을 맡았습니다. 이동평균필터 알고리즘을 사용하여 거리 데이터에 발생한 오차를 줄였습니다.
 ## 문제

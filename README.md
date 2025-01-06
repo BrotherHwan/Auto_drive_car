@@ -6,9 +6,9 @@
 ## 기술 스택
 ![a](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=cpp&logoColor=white) ![b](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white) ![c](https://img.shields.io/badge/STM32CubeIDE-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white) ![d](https://img.shields.io/badge/ARM-FF6F00?style=for-the-badge&logo=arm&logoColor=white) ![e](https://img.shields.io/badge/RTOS-FF6F00?style=for-the-badge&logo=rtos&logoColor=white)
 ## 역할
--초음파 거리에 따른 모터 제어 알고리즘을 구현 
--초음파 센서의 거리 데이터 신뢰성 향상을 위한 시스템 구성
--거리 데이터 가공
+-초음파 거리에 따른 모터 제어 알고리즘을 구현 <br/>
+-초음파 센서의 거리 데이터 신뢰성 향상을 위한 시스템 구성 <br/>
+-거리 데이터 가공 <br/>
 ## 문제
 1. 초음파 센서의 거리데이터 오차발생
 2. 반응 시간의 지연으로 인한 장애물과의 충돌
